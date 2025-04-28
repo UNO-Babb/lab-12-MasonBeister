@@ -1,7 +1,4 @@
 #Source of search comes from Geeks For Geeks website
-
-
-
 # Function to do insertion sort
 def insertionSort(arr):
 
